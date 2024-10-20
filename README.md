@@ -1,4 +1,4 @@
-hi, i'm axqu. a cybersecurity researcher specifically interested in reverse engineering, pentesting & osint.
+hi, i'm axqu. a programmer turned cybersecurity researcher specifically interested in reverse engineering, pentesting & osint. i'm a generalist sometimes as well.
 
 
 
